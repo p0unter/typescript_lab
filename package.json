@@ -1,0 +1,29 @@
+{
+  "name": "typescript_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p0unter/typescript_lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/p0unter/typescript_lab/issues"
+  },
+  "homepage": "https://github.com/p0unter/typescript_lab#readme",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/readline-sync": "^1.4.8"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "lib": ["dom", "es6"],
+      "outDir": "build",
+      "strict": true,
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true
+    }
+  }
+  
